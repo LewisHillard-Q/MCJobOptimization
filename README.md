@@ -12,7 +12,7 @@ Open command prompt
 
     ```cd %appdata%\.minecraft\saves\WORLDNAME\minecolonies\minecraft\overworld ```
 - run python script with the dat file (default is colony1.dat)
-
+    ``` python3 MCWorkerOptimization.py ``` (runs on colony1.dat)
     ``` python3 MCWorkerOptimization.py colonyname.dat ```
 
 ### How to use
