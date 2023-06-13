@@ -8,7 +8,7 @@ Navigate to %appdata%\.minecraft\saves\WORLDNAME\minecolonies\minecraft\overworl
 - Place the python script here
 
 Open command prompt
-- navigate to %appdata%\.minecraft\saves\WORLDNAME\minecolonies\minecraft\overworld
+- navigate to %appdata%\.minecraft\saves\WORLDNAME\minecolonies\minecraft\overworld OR equivalent save folder in mod loader.
 
     ```cd %appdata%\.minecraft\saves\WORLDNAME\minecolonies\minecraft\overworld ```
 - run python script with the dat file (default is colony1.dat)
