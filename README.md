@@ -30,7 +30,7 @@ Open command prompt
 
 #### My colony requirements
 In my colony I have two guard towers with 1 knight and the other slot empty in each and two barracks towers, each with a knight and an archer, with the other slot empty.
-I have two mines with, one with a mine and one with a quarrier.
+I have two mines with, one with a miner and one with a quarrier.
 
 
 #### Output
