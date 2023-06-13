@@ -18,6 +18,7 @@ Open command prompt
     ``` python3 MCWorkerOptimization.py colonyname.dat ```
 
 ### How to use
+- if something breaks ctrl+c and restart
 - Some buildings have multiple job roles that cannot all be filled. You must select what you want in your colony
   - For each mine you must select miner or quarrier
     - You will be prompted once for each mine you have. It does not matter which mine is which.
