@@ -26,6 +26,10 @@ Open command prompt
   - If no ranking is provided then all jobs will be given the same priority
     - This will be technically most optimal but if you want to assign a ranking you can.
 
+### Issues
+- Only one researcher will appear.
+- Not tested on some buildings such as combat academy or late game buildings
+
 ### Example
 
 #### My colony requirements
