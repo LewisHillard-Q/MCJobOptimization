@@ -32,6 +32,7 @@ Open command prompt
 ### Issues
 - Only one researcher will appear.
 - Not tested on some buildings such as combat academy or late game buildings
+- Library is ignored (intentional)
 
 ### Example
 
