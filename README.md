@@ -18,10 +18,13 @@ Open command prompt
 ### How to use
 - Some buildings have multiple job roles that cannot all be filled. You must select what you want in your colony
   - For each mine you must select miner or quarrier
+    - You will be prompted once for each mine you have. It does not matter which mine is which.
   - For each guard or barracks tower you must choose which type to fill with or leave the slot empty
+    - IMPORTANT: You must plan this out beforehand. see the example below.
 
 - After than you can rank any jobs you want to priorize such as a builder or a courier
   - If no ranking is provided then all jobs will be given the same priority
+    - This will be technically most optimal but if you want to assign a ranking you can.
 
 ### Example
 
