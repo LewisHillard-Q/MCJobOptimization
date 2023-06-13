@@ -174,5 +174,6 @@ Miner1 : Jazlyn Z. Coffin
 Quarrier1 : Gerardo L. Complin
 Researcher1 : Chelsea S. Bell
 Smelter1 : Reece R. Harris
-Stonemason1 : Jazmine R. Cheverell```
+Stonemason1 : Jazmine R. Cheverell
 Stonesmelter1 : Abraham E. Gorney
+```
