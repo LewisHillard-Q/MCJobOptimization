@@ -24,7 +24,7 @@ Open command prompt
 
 - After than you can rank any jobs you want to priorize such as a builder or a courier
   - If no ranking is provided then all jobs will be given the same priority
-    - This will be technically most optimal but if you want to assign a ranking you can.
+    - No ranking is techinically optimal but prioritize as you like.
 
 ### Issues
 - Only one researcher will appear.
