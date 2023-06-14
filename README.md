@@ -1,6 +1,6 @@
 # MCJobOptimization
 
-This program will look at the statistics of the citizen in your colony and assign them to their optimal job.
+This program will look at the statistics of the citizens in your colony and assign them to their optimal job.
 
 ### Installation
 If necessary Install python3
