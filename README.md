@@ -1,7 +1,7 @@
 # MCJobOptimization
 
 ### Installation
-In necessary Install python3
+If necessary Install python3
 - https://www.python.org/downloads/
 
 Navigate to %appdata%\.minecraft\saves\WORLDNAME\minecolonies\minecraft\overworld OR equivalent save folder in mod loader.
